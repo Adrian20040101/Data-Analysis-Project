@@ -1,0 +1,52 @@
+home,score,away,year
+Germany,Match 1,Scotland,2024
+Hungary,Match 2,Switzerland,2024
+Germany,Match 14,Hungary,2024
+Scotland,Match 13,Switzerland,2024
+Switzerland,Match 25,Germany,2024
+Scotland,Match 26,Hungary,2024
+Spain,Match 3,Croatia,2024
+Italy,Match 4,Albania,2024
+Croatia,Match 15,Albania,2024
+Spain,Match 16,Italy,2024
+Albania,Match 27,Spain,2024
+Croatia,Match 28,Italy,2024
+Slovenia,Match 6,Denmark,2024
+Serbia,Match 5,England,2024
+Slovenia,Match 18,Serbia,2024
+Denmark,Match 17,England,2024
+England,Match 29,Slovenia,2024
+Denmark,Match 30,Serbia,2024
+Poland,Match 7,Netherlands,2024
+Austria,Match 8,France,2024
+Poland,Match 19,Austria,2024
+Netherlands,Match 20,France,2024
+Netherlands,Match 31,Austria,2024
+France,Match 32,Poland,2024
+Romania,Match 10,Ukraine,2024
+Belgium,Match 9,Slovakia,2024
+Slovakia,Match 21,Ukraine,2024
+Belgium,Match 22,Romania,2024
+Slovakia,Match 33,Romania,2024
+Ukraine,Match 34,Belgium,2024
+Turkey,Match 11,Georgia,2024
+Portugal,Match 12,Czech Republic,2024
+Georgia,Match 24,Czech Republic,2024
+Turkey,Match 23,Portugal,2024
+Georgia,Match 35,Portugal,2024
+Czech Republic,Match 36,Turkey,2024
+Runner-up Group A,Match 38,Runner-up Group B,2024
+Winner Group A,Match 37,Runner-up Group C,2024
+Winner Group C,Match 40,3rd Group D/E/F,2024
+Winner Group B,Match 39,3rd Group A/D/E/F,2024
+Runner-up Group D,Match 42,Runner-up Group E,2024
+Winner Group F,Match 41,3rd Group A/B/C,2024
+Winner Group E,Match 43,3rd Group A/B/C/D,2024
+Winner Group D,Match 44,Runner-up Group F,2024
+Winner Match 39,Match 45,Winner Match 37,2024
+Winner Match 41,Match 46,Winner Match 42,2024
+Winner Match 40,Match 48,Winner Match 38,2024
+Winner Match 43,Match 47,Winner Match 44,2024
+Winner Match 45,Match 49,Winner Match 46,2024
+Winner Match 47,Match 50,Winner Match 48,2024
+Winner Match 49,Match 51,Winner Match 50,2024
